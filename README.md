@@ -1,10 +1,23 @@
 Pokycoin Core integration/staging tree
 =====================================
+![dsfsfsfff](https://user-images.githubusercontent.com/125458177/226607730-52d94300-1c3d-44b4-886d-2abe636e81f8.png)
 
-https://pokycoin.org
+
+![250](https://user-images.githubusercontent.com/125458177/226606803-4c84dc9a-90ce-4f97-ac8d-6ff62914b5b4.jpeg)![252](https://user-images.githubusercontent.com/125458177/226606829-994ad8a9-c14d-44a3-bf50-b80feab50830.jpeg)
+
+
+Nodes and pools
+---------------
+
+addnode=104.248.116.116
+
+Poky Pool: https://157.230.220.21
 
 What is Pokycoin?
 ----------------
+Just a friendly meme coin
+
+10k Pokys reward per block mined
 
 Pokycoin is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. Pokycoin uses peer-to-peer technology to operate
@@ -12,8 +25,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Pokycoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Pokycoin Core software, see https://pokycoin.org
+
 
 License
 -------
