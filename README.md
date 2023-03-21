@@ -8,16 +8,22 @@ Pokycoin Core integration/staging tree
 
 Nodes and pools
 ---------------
-
 addnode=104.248.116.116
 
 Poky Pool: https://157.230.220.21
+
+Social
+-------
+https://www.reddit.com/r/pokycoin/
+https://twitter.com/pokycoin
 
 What is Pokycoin?
 ----------------
 Just a friendly meme coin
 
 10k Pokys reward per block mined
+
+
 
 Pokycoin is an experimental new digital currency that enables instant payments to
 anyone, anywhere in the world. Pokycoin uses peer-to-peer technology to operate
