@@ -15,7 +15,10 @@ Poky Pool: https://157.230.220.21
 Social
 -------
 https://www.reddit.com/r/pokycoin/
+
 https://twitter.com/pokycoin
+
+https://sourceforge.net/projects/pokycoin/
 
 What is Pokycoin?
 ----------------
