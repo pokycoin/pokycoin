@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pokycoin
+Comment=Pokycoin P2P Cryptocurrency
+Exec=pokycoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/pokycoin;
+Categories=Office;Finance;
+Name[en_US]=pokycoin-qt.desktop

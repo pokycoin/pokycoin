@@ -1,0 +1,2 @@
+# List of Pokycoin IPv4 nodes sorted by 30 day availability, block height and version.
+104.248.116.116:23891
