@@ -24,7 +24,11 @@ What is Pokycoin?
 ----------------
 Just a friendly meme coin
 
+50 billion total Pokycoins
+
 10k Pokys reward per block mined
+
+One minute block times
 
 
 
