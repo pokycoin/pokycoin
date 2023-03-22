@@ -10,7 +10,7 @@ Nodes and pools
 ---------------
 addnode=104.248.116.116
 
-Poky Pool: https://157.230.220.21
+Poky Pool: https://192.241.157.219
 
 Ports:
 
